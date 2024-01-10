@@ -1,7 +1,7 @@
 import './styles.scss'
-import initScrollReveal from "/public/scripts/scrollReveal.js";
-import initTiltEffect from "/public/scripts/tiltAnimation.js";
-import { targetElements, defaultProps } from "/public/data/scrollRevealConfig.js";
+import initScrollReveal from "/src/scripts/scrollReveal.js";
+import initTiltEffect from "/src/scripts/tiltAnimation.js";
+import { targetElements, defaultProps } from "/src/data/scrollRevealConfig.js";
 
 initScrollReveal(targetElements, defaultProps);
 initTiltEffect();
