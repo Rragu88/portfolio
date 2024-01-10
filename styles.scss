@@ -1,0 +1,18 @@
+@import "/public/sass/vendors/bootstrap.scss";
+
+@import "/public/sass/abstracts/mixins";
+@import "/public/sass/abstracts/variables";
+@import "/public/sass/abstracts/helpers";
+
+@import "/public/sass/base/base";
+@import "/public/sass/base/typography";
+
+@import "/public/sass/components/buttons";
+
+@import "/public/sass/layout/footer";
+@import "/public/sass/layout/sections";
+
+@import "/public/sass/sections/about";
+@import "/public/sass/sections/contact";
+@import "/public/sass/sections/hero";
+@import "/public/sass/sections/projects";
